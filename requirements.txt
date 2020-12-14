@@ -1,0 +1,13 @@
+opencv-python
+pyfiglet
+requests
+numpy
+scapy
+colorama
+python-cfonts
+termcolor
+bs4
+tqdm
+pyfiglet
+pynput
+PyPDF2
